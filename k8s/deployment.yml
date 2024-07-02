@@ -33,3 +33,4 @@ spec:
               value: "postgres"
             - name: DB_NAME
               value: "postgres"
+
